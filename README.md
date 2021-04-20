@@ -1,4 +1,3 @@
-### Hi there 
 * 👋 Hi! I'm Allison.
 * 📚 I used to a librarian, but I'm becoming a frontend developper 
 * 🌱 I am currently learning Javascript and React
