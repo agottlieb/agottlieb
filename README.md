@@ -1,5 +1,5 @@
 * 👋 Hi! I'm Allison.
-* 📚 I used to a librarian and now I'm a frontend developper 
+* 📚 I'm a librarian and I'm a frontend developper 
 * 🌱 I am currently learning JavaScript and React
 * 💻 I am based in NYC and am open to remote work
 * 📫 You can contct me at allison.m.gottlieb [@] gmail.com
